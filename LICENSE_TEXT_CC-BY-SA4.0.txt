@@ -44,7 +44,7 @@ See the full text in the accompanying file `LICENSE_CODE_APACHE2.txt`.
 ───────────────────────────────────────────────────────────────────────────────
 ATTRIBUTION NOTICE
 ───────────────────────────────────────────────────────────────────────────────
-This framework was developed by Lucas Assis with the assistance of multiple
+This framework was developed by Lucas Mendonça Assis with the assistance of multiple
 AI collaborators (AI-1 to AI-4), which functioned as reasoning and synthesis
 partners during drafting and refinement.
 
